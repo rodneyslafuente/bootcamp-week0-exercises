@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/personal-assistant/static/js/main.b292be1f.chunk.js",
-    "main.js.map": "/personal-assistant/static/js/main.b292be1f.chunk.js.map",
-    "runtime-main.js": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js",
-    "runtime-main.js.map": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js.map",
-    "static/js/2.619ce0e7.chunk.js": "/personal-assistant/static/js/2.619ce0e7.chunk.js",
-    "static/js/2.619ce0e7.chunk.js.map": "/personal-assistant/static/js/2.619ce0e7.chunk.js.map",
-    "index.html": "/personal-assistant/index.html",
-    "precache-manifest.5ad480109deaf805bddbbf7a58870b6b.js": "/personal-assistant/precache-manifest.5ad480109deaf805bddbbf7a58870b6b.js",
-    "service-worker.js": "/personal-assistant/service-worker.js",
-    "static/js/2.619ce0e7.chunk.js.LICENSE": "/personal-assistant/static/js/2.619ce0e7.chunk.js.LICENSE"
+    "main.js": "/bootcamp-week0-exercises/static/js/main.b292be1f.chunk.js",
+    "main.js.map": "/bootcamp-week0-exercises/static/js/main.b292be1f.chunk.js.map",
+    "runtime-main.js": "/bootcamp-week0-exercises/static/js/runtime-main.1be2e8c5.js",
+    "runtime-main.js.map": "/bootcamp-week0-exercises/static/js/runtime-main.1be2e8c5.js.map",
+    "static/js/2.1df49976.chunk.js": "/bootcamp-week0-exercises/static/js/2.1df49976.chunk.js",
+    "static/js/2.1df49976.chunk.js.map": "/bootcamp-week0-exercises/static/js/2.1df49976.chunk.js.map",
+    "index.html": "/bootcamp-week0-exercises/index.html",
+    "precache-manifest.d3a352ddf5e32dc7f1dcffbbe736d9df.js": "/bootcamp-week0-exercises/precache-manifest.d3a352ddf5e32dc7f1dcffbbe736d9df.js",
+    "service-worker.js": "/bootcamp-week0-exercises/service-worker.js",
+    "static/js/2.1df49976.chunk.js.LICENSE": "/bootcamp-week0-exercises/static/js/2.1df49976.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f1a1dcf.js",
-    "static/js/2.619ce0e7.chunk.js",
+    "static/js/runtime-main.1be2e8c5.js",
+    "static/js/2.1df49976.chunk.js",
     "static/js/main.b292be1f.chunk.js"
   ]
 }
