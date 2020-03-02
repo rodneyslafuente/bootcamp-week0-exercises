@@ -1,10 +1,10 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import ExampleComponent from '../src/ExampleComponent'
+import { Button }from '../src/styles.js'
 import App from '../src/App'
 
-storiesOf('ExampleComponent', module).add("It's me", () => (
-  <ExampleComponent alertText="Hewo der 💩" />
+storiesOf('Button', module).add(() => (
+  <Button>Hello<Button />
 ))
 
 storiesOf('App', module).add('App', () => (
