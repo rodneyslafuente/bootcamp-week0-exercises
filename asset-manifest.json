@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/main.b292be1f.chunk.js",
-    "main.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/main.b292be1f.chunk.js.map",
-    "runtime-main.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/runtime-main.51614db5.js",
-    "runtime-main.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/runtime-main.51614db5.js.map",
-    "static/js/2.7915df8f.chunk.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.7915df8f.chunk.js",
-    "static/js/2.7915df8f.chunk.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.7915df8f.chunk.js.map",
-    "index.html": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/index.html",
-    "precache-manifest.a179094189777a4e475f64c671b72ccb.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/precache-manifest.a179094189777a4e475f64c671b72ccb.js",
-    "service-worker.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/service-worker.js",
-    "static/js/2.7915df8f.chunk.js.LICENSE": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.7915df8f.chunk.js.LICENSE"
+    "main.js": "/personal-assistant/static/js/main.b292be1f.chunk.js",
+    "main.js.map": "/personal-assistant/static/js/main.b292be1f.chunk.js.map",
+    "runtime-main.js": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js",
+    "runtime-main.js.map": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js.map",
+    "static/js/2.619ce0e7.chunk.js": "/personal-assistant/static/js/2.619ce0e7.chunk.js",
+    "static/js/2.619ce0e7.chunk.js.map": "/personal-assistant/static/js/2.619ce0e7.chunk.js.map",
+    "index.html": "/personal-assistant/index.html",
+    "precache-manifest.5ad480109deaf805bddbbf7a58870b6b.js": "/personal-assistant/precache-manifest.5ad480109deaf805bddbbf7a58870b6b.js",
+    "service-worker.js": "/personal-assistant/service-worker.js",
+    "static/js/2.619ce0e7.chunk.js.LICENSE": "/personal-assistant/static/js/2.619ce0e7.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.51614db5.js",
-    "static/js/2.7915df8f.chunk.js",
+    "static/js/runtime-main.9f1a1dcf.js",
+    "static/js/2.619ce0e7.chunk.js",
     "static/js/main.b292be1f.chunk.js"
   ]
 }
